@@ -32,4 +32,3 @@ before_install:
 script:
   - chmod +x gradlew
   - ./gradlew clean
-  - ./gradlew connectedAndroidTest
